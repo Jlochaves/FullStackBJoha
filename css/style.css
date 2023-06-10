@@ -42,7 +42,7 @@ footer {
   text-align: center;
 }
 
-#p1 {
+#p0 {
   color:  blue;
   font-weight: bold;
 }
@@ -50,3 +50,33 @@ footer {
   color: red;
   font-weight: bold;
   }
+  
+#p1 {
+  font-size: 16px;
+}
+
+#p1 .verde-subrayado {
+  color: green;
+  text-decoration: underline;
+}
+
+#p1 .rojo {
+  color: red;
+}
+
+#p1 .subrayado-arriba-abajo {
+  text-decoration: underline;
+  text-decoration-style: double;
+}
+
+#p1 .mayor-tamano {
+  font-size: 20px;
+}
+
+#p1 .azul {
+  color: blue;
+}
+
+#p1 .rojo-final {
+  color: red;
+}
