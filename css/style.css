@@ -41,3 +41,12 @@ footer {
   padding: 10px;
   text-align: center;
 }
+
+#p1 {
+  color:  blue;
+  font-weight: bold;
+}
+#p2 {
+  color: red;
+  font-weight: bold;
+  }
